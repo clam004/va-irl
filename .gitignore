@@ -1,5 +1,4 @@
 
 # environments
 env/
-*env
-.env
+mujoco-py/
