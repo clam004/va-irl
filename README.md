@@ -16,5 +16,5 @@ CONSTRAINING INFORMATION FLOW](https://arxiv.org/pdf/1810.00821.pdf)
 # Set up instructions:
 
 1. in your terminal `cd` into a folder you want to work from and `git clone https://github.com/clam004/va-inv-rl.git` 
-2. `cd` into `va-inv-irl` and create a virtual environment `python -m venv env`
+2. `cd` into `va-inv-irl` and create a virtual environment `python3 -m venv env`
 3. install dependencies `pip3 install -r requirements.txt`
