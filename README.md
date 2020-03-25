@@ -18,3 +18,7 @@ CONSTRAINING INFORMATION FLOW](https://arxiv.org/pdf/1810.00821.pdf)
 1. in your terminal `cd` into a folder you want to work from and `git clone https://github.com/clam004/va-irl.git` 
 2. `cd` into `va-irl` and create a virtual environment `python3 -m venv env`
 3. install dependencies `pip3 install -r requirements.txt`
+4. `jupyter notebook` will open a new tab in your browser
+5. install any additional depemdencies you need
+6. add any new dependences to requirements.txt `pip3 freeze > requirements.txt
+`
