@@ -2,3 +2,12 @@
 # environments
 env/
 mujoco-py/
+
+# cache
+utils/__pycache__/
+
+# checkpoints
+.ipynb_checkpoints
+
+#editors
+.vscode
