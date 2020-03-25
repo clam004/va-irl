@@ -1,5 +1,4 @@
-# va-irl
-Variational Adversarial Inverse Reinforcement Learning
+# va-inv-rl
 
 <img src="https://raw.githubusercontent.com/dwyl/repo-badges/master/highresPNGs/start-with-why-HiRes.png" height="20" width="100">
 

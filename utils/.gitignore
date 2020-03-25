@@ -1,0 +1,8 @@
+.DS_Store
+
+#Large Folders
+data/
+save/
+
+# Environments
+env/
